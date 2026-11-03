@@ -1,0 +1,35 @@
+# Visual Studio / .NET generated files
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+
+# Local build and publish outputs
+/release/
+/publish/
+/Release/
+/Publish/
+Top-Speed-Racing-*-Windows-*.zip
+
+# Temporary and IDE files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Keep the game assets, screenshots, and videos
+# TSR/Images/
+# TSR/Audios/
+# screenshots/
+# media/
+
+# Keep the complete playable game
+# Play-Windows/ is intentionally NOT ignored.
