@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>TopSpeedRacing</AssemblyName>
+    <Product>Top Speed Racing</Product>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- Copy original runtime assets beside the executable when available. -->
+  <ItemGroup>
+    <None Update="Images\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="Audios\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="HighScore.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>
