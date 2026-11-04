@@ -6,11 +6,10 @@
 
 ## 🎮 Gameplay demo
 
-[![Watch the Top Speed Racing gameplay demo](screenshots/classic-gameplay.png)](media/gameplay-demo.mp4)
 
-**[▶ Watch the gameplay demo (MP4, ~41 seconds)](media/gameplay-demo.mp4)**
+https://github.com/user-attachments/assets/a1e80963-8038-452d-acd8-bf5b1e24d151
 
-This short demo shows driving, oncoming traffic, power-ups and the game-over screen. Click the image or link to open the actual recorded gameplay; GitHub may show the MP4 on a separate page rather than as an inline player in the README.
+
 
 ## ⬇️ Download and play on Windows
 
